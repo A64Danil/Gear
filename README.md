@@ -5,7 +5,7 @@
 
 
 <p>Примеры html:
-<strong>Выделение</strong>
-<em>Курсив</em>
-<del>Зачеркнутый</del>
+<br><strong>Выделение</strong>
+<br><em>Курсив</em>
+<br><del>Зачеркнутый</del>
 </p>
